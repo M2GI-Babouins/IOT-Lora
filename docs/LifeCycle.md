@@ -23,3 +23,6 @@ La carte est à usage universitaire ce qui peut limiter l'impact de l'obsolescen
 Le recyclage de telles cartes est compliqué. Il existe des procédés permettant la récupération de métaux, mais ils sont couteux, notemment en eau.
 
 Ces cartes sont aussi néfastes à détruire : en France les déchets sont incinérés et le cartes et cables en plastique et métals divers sont toxiques et coûteuses à détruire.
+
+
+![chip lifecycle](https://images.squarespace-cdn.com/content/v1/5388de33e4b01b17bc0d1ed7/1457915336522-JRPWLEVXY0QYDN6LE7UF/CPU+Life+Cycle?format=1000w)
