@@ -30,7 +30,7 @@ Le test `gnrc_lorawan` a compilé sans parvenir à s'enregistrer ; les devuid, a
 
 Le logiciel a été utilisé tardivement.
 
-Nous avons pu utiliser les codes example fournis sur (https://wiki.dfrobot.com/Weatherproof_Ultrasonic_Sensor_With_Separate_Probe_SKU_SEN0208)[https://wiki.dfrobot.com/Weatherproof_Ultrasonic_Sensor_With_Separate_Probe_SKU_SEN0208]
+Nous avons pu utiliser les codes example fournis sur [DFRobot](https://wiki.dfrobot.com/Weatherproof_Ultrasonic_Sensor_With_Separate_Probe_SKU_SEN0208)
 
 Nous avons utilisé le mode 3 qui permet de récupérer la distance. Le résultat renvoyé était constemment 0 sans que l'on sache si c'était à cause de la sonde ou d'un problème de transfert des données.
 
